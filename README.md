@@ -1,8 +1,10 @@
 # The Global Ledger — 17 November 2026
 
-![news-image-20261117](https://img.shields.io/badge/competition-news--image--20261117-blue)
-![date](https://img.shields.io/badge/date-17%20November%202026-red)
-![format](https://img.shields.io/badge/format-1024x1024%20JPEG-green)
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/ruri08219/news-image-20261117-entry/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/ruri08219/news-image-20261117-entry/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
+[Sum up 17 November's world news in one image — make.fun bounty](https://make.fun/bounty/news-image-20261117)
 
 ## About
 
